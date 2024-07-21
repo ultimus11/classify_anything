@@ -30,7 +30,7 @@ To get started with using these classification algorithms, simply clone the repo
 
 ## Contributing
 
-Contributions are welcome! Please fork the repository, make your changes, and submit a pull request.
+Contributions are welcome!! Please fork the repository, make your changes, and submit a pull request.
 
 ## License
 
