@@ -22,7 +22,7 @@ This repository includes implementations of popular classification algorithms, s
 - K-Nearest Neighbors
 - Neural Networks
 
-These algorithms are designed to be easy to use and flexible, allowing for quick experimentation and application to various datasets.
+These algorithms are designed to be easy to use and flexible, allowing for quick experimentation and application to various datasets!!
 
 ## Getting Started
 
