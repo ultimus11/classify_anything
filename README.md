@@ -26,7 +26,7 @@ These algorithms are designed to be easy to use and flexible, allowing for quick
 
 ## Getting Started
 
-To get started with using these classification algorithms, simply clone the repository and follow the instructions in the provided examples.
+To get started with using these classification algorithms, simply clone the repository and follow the instructions in the provided examples..
 
 ## Contributing
 
