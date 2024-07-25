@@ -26,11 +26,11 @@ These algorithms are designed to be easy to use and flexible, allowing for quick
 
 ## Getting Started
 
-To get started with using these classification algorithms, simply clone the repository and follow the instructions in the provided examples..
+To get started with using these classification algorithms, simply clone the repository and follow the instructions in the provided examples.
 
 ## Contributing
 
-Contributions are welcome!! Please fork the repository, make your changes, and submit a pull request!
+Contributions are welcome!! Please fork the repository, make your changes, and submit a pull request.
 
 ## License
 
